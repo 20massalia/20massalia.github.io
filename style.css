@@ -14,6 +14,7 @@ h2 {
     text-align: center;
     color :midnightblue;
     font-style:inherit;
+    border: 1px solid midnightblue;
 }
 
 ul {
