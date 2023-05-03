@@ -31,3 +31,7 @@ ol {
     margin-right: auto;
     display: table;
 }
+
+a {
+    text-decoration: none;
+}
